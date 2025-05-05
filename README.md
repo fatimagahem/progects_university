@@ -26,4 +26,4 @@ Il circuito progettato ha mostrato buone prestazioni in termini di throughput e 
 **Fatima Gahem**  
 Laureata Magistrale in Ingegneria Elettronica  
 📧 fatimagahem.fg@gmail.com  
-📌 Portfolio: [https://github.com/tuo-username](https://github.com/tuo-username)
+📌 Portfolio: https://github.com/fatimagahem
